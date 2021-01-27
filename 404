@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+    <title>Error: 404</title>
+
+<meta name="description" content=".">
+<meta name="generator" content="Kelvin Orduna">
+
+<!-- Apple Stuff -->
+    <link rel="apple-touch-icon" href="https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/paf5adbe016554130b916606cfc2c5b13/webclip.png?1611764532">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Error: 404">
+
+<!-- Google / Search Engine Tags -->
+    <meta itemprop="name" content="Error: 404">
+<meta itemprop="description" content=".">
+<meta itemprop="image" content="https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/pcfbefeaa8fd8450380d48e7a58697581/ogimage.jpeg?1611770148">
+
+<!-- MS Tile - for Microsoft apps-->
+<meta name="msapplication-TileImage" content="https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/pcfbefeaa8fd8450380d48e7a58697581/ogimage.jpeg?1611770148">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="404 page">
+<meta property="og:description" content=".">
+<meta property="og:image" content="https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/pcfbefeaa8fd8450380d48e7a58697581/ogimage.jpeg?1611770148">
+<meta property="og:url" content="http://hmsfbla.1hsd.org/404">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="404 page">
+<meta name="twitter:description" content=".">
+<meta name="twitter:image" content="https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/pcfbefeaa8fd8450380d48e7a58697581/ogimage.jpeg?1611770148">
+
+    <link rel="icon" type="image/png" href="https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/c4dba2c9cddb409c8beec8d74e1578df_favicon_260x260-trans.png">
+
+<script type="application/ld+json">
+    {
+        "@context":"http://schema.org",
+        "@type":"WebPage",
+        "url":"http://hmsfbla.1hsd.org/404",
+        "description":".",
+        "name":"404 page",
+        "image":"https://cdn.grapedrop.com/u1993efff77d0431dbcb1353739cd4cce/pcfbefeaa8fd8450380d48e7a58697581/ogimage.jpeg?1611770148"
+    }
+</script>
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://grapedrop.com/css/gjs-base.css?id=3f96e26ac7198158350f">
+
+
+<script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" onload="postJQ()"></script>
+
+    <script async src="https://grapedrop.com/js/gpd.js?id=941871ee8356f83232d3"></script>
+
+<style>
+    body { margin: 0; padding: 0; overflow-x: hidden; }
+</style>
+<style data-css-anim>
+    [data-anim-type]:not([data-anim-done]) { opacity: 0; }
+</style>
+
+
+        <style>
+            * { box-sizing: border-box; } body {margin: 0;}body{background-color:#2e4052;}body{background-color:#95c2de;}.mainbox{background-color:#95c2de;margin:auto;height:600px;width:600px;position:relative;}.err{color:#ffffff;font-family:'Nunito Sans', sans-serif;font-size:11rem;position:absolute;left:20%;top:8%;}.far{position:absolute;font-size:8.5rem;left:42%;top:15%;color:#ffffff;}.err2{color:#ffffff;font-family:'Nunito Sans', sans-serif;font-size:11rem;position:absolute;left:68%;top:8%;}.msg{text-align:center;font-family:'Nunito Sans', sans-serif;font-size:1.6rem;position:absolute;left:16%;top:45%;width:75%;}a{text-decoration:none;color:white;}a:hover{text-decoration:underline;}@keyframes fadeEffect{from{opacity:0;}to{opacity:1;}}
+        </style>
+    </head>
+    <body>
+        <!-- purple x moss 2020 --><link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;900&display=swap" rel="stylesheet"/><script src="https://kit.fontawesome.com/4b9ba14b0f.js" crossorigin="anonymous"></script><!-- purple x moss 2020 --><link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;900&display=swap" rel="stylesheet"/><script src="https://kit.fontawesome.com/4b9ba14b0f.js" crossorigin="anonymous"></script><!-- purple x moss 2020 --><link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600;900&display=swap" rel="stylesheet"/><script src="https://kit.fontawesome.com/4b9ba14b0f.js" crossorigin="anonymous"></script><div class="mainbox"><div class="err">4</div><i class="far fa-question-circle fa-spin"></i><div class="err2">4</div><div class="msg">Maybe this page moved? Got deleted? Is hiding out in quarantine? Never existed in the first place?<p>Let's go <a data-cke-saved-href="http://hmsfbla.1hsd.org" href="http://hmsfbla.1hsd.org">home</a> and try from there.<br><br>Feel like you've reached this in error? <a data-cke-saved-href="http://hmsfbla.1hsd.org/contact" href="http://hmsfbla.1hsd.org/contact">Contact us</a>, and choose "404 in error" as the reason.<br></p></div></div>
+        
+        <style>
+    a.page-brand-badge {
+        border-radius: 3px !important;
+        background-color: white !important;
+        box-shadow: 0 0 0 1px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.1);
+        padding: 5px 7px !important;
+        font-family: Helvetica, sans-serif !important;
+        font-size: 12px !important;
+        text-decoration: none !important;
+        color: #555 !important;
+        transition: box-shadow 0.25s !important;
+    }
+    a.page-brand-badge:hover {
+        box-shadow: 0 0 0 1px rgba(0,0,0,0.1), 0 3px 10px rgba(0,0,0,0.1);
+    }
+
+</style>
+
+    <script async src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+ 
+
+    </body>
+</html>
+
