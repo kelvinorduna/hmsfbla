@@ -1,0 +1,9 @@
+#robots.txt for hmsfbla.1hsd.org
+
+User-agent: *
+Disallow: /assets/uploads/favicon/
+User-agent: *
+Disallow: /assets/uploads/backgrounds/
+
+
+sitemap: hmsfbla.1hsd.org/sitemap.xml
