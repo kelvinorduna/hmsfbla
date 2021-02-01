@@ -1,9 +1,8 @@
 #robots.txt for hmsfbla.1hsd.org
 
 User-agent: *
+Disallow: /assets/uploads/background/
 Disallow: /assets/uploads/favicon/
-User-agent: *
-Disallow: /assets/uploads/backgrounds/
-
+Disallow: /assets/uploads/
 
 sitemap: hmsfbla.1hsd.org/sitemap.xml
